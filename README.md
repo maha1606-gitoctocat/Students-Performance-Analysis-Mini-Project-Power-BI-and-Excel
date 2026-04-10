@@ -71,6 +71,4 @@ Performed the following preprocessing steps:
 - Female students showed slightly better average performance  
 - Study hours positively impacted final scores  
 
----
 
-## Repository Structure
