@@ -1,4 +1,4 @@
-# Students-Performance-Analysis-Mini-Project-Power-BI-and-Excel
+<img width="894" height="504" alt="Mini Project Dashboard" src="https://github.com/user-attachments/assets/38d2638b-19b9-4764-afbe-2816e95b7fe3" /># Students-Performance-Analysis-Mini-Project-Power-BI-and-Excel
 
 ## Project Overview
 This project analyzes student academic performance using Power BI to identify trends, strengths, and areas for improvement.  
@@ -53,6 +53,8 @@ Performed the following preprocessing steps:
 - Built DAX measures for KPI calculations  
 
 ---
+<img width="894" height="504" alt="Mini Project Dashboard" src="https://github.com/user-attachments/assets/b173f021-828c-41a7-b1b5-4255062128f5" />
+
 
 ## Dashboard Features
 - Total Students KPI  
