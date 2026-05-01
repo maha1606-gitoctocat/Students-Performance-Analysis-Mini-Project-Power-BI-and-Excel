@@ -1,10 +1,8 @@
-<img width="894" height="504" alt="Mini Project Dashboard" src="https://github.com/user-attachments/assets/38d2638b-19b9-4764-afbe-2816e95b7fe3" /># Students-Performance-Analysis-Mini-Project-Power-BI-and-Excel
+# Students-Performance-Analysis-Mini-Project-Power-BI-and-Excel
 
 ## Project Overview
 This project analyzes student academic performance using Power BI to identify trends, strengths, and areas for improvement.  
 The dashboard provides interactive visual insights into student scores, attendance, subject-wise performance, and overall academic progress.
-
----
 
 ## Objectives
 - Analyze student performance across different subjects
@@ -13,15 +11,11 @@ The dashboard provides interactive visual insights into student scores, attendan
 - Visualize overall academic trends for decision-making
 - Provide interactive insights for educators and institutions
 
----
-
 ## Tools & Technologies Used
 - **Power BI** – Dashboard Creation & Data Visualization  
 - **Excel / CSV** – Data Source  
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX** – Calculated Columns & Measures  
-
----
 
 ## Dataset Information
 The dataset includes the following attributes:
@@ -40,8 +34,6 @@ The dataset includes the following attributes:
 - Study Hours  
 - Extra Activities  
 
----
-
 ## Data Cleaning & Preprocessing
 Performed the following preprocessing steps:
 
@@ -52,10 +44,6 @@ Performed the following preprocessing steps:
 - Created calculated columns for performance categories  
 - Built DAX measures for KPI calculations  
 
----
-<img width="894" height="504" alt="Mini Project Dashboard" src="https://github.com/user-attachments/assets/b173f021-828c-41a7-b1b5-4255062128f5" />
-
-
 ## Dashboard Features
 - Total Students KPI  
 - Average Score KPI  
@@ -65,8 +53,6 @@ Performed the following preprocessing steps:
 - Gender-wise Performance Comparison  
 - Interactive Filters / Slicers  
 
----
-
 ## Key Insights
 - Students with higher attendance generally scored better  
 - Mathematics had the lowest average score among subjects  
@@ -74,3 +60,4 @@ Performed the following preprocessing steps:
 - Study hours positively impacted final scores  
 
 
+<img width="894" height="504" alt="Mini Project Dashboard" src="https://github.com/user-attachments/assets/38d2638b-19b9-4764-afbe-2816e95b7fe3" />
