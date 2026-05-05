@@ -58,8 +58,8 @@ Performed the following preprocessing steps:
 
 ## Academic Performance
 -	Average Attendance is **88.25%**, indicating generally good attendance. 
--	Average CGPA is **3.17** and Average SGPA is 2.68, showing moderate academic performance. 
--	Maximum CGPA is **4.00**, while Minimum CGPA is 0.00. 
+-	Average CGPA is **3.17** and Average SGPA is **2.68**, showing moderate academic performance. 
+-	Maximum CGPA is **4.00**, while Minimum CGPA is **0.00**. 
 
 ## Learning Mode
 -	**Offline** learning is preferred by most students (**857 students**). 
